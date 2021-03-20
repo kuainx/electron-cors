@@ -1,0 +1,22 @@
+{
+  "name": "electron-cros",
+  "version": "1.0.0",
+  "description": "使用electron跨域操作其他网页",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuainx/electron-cros.git"
+  },
+  "author": "kuai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuainx/electron-cros/issues"
+  },
+  "homepage": "https://github.com/kuainx/electron-cros#readme",
+  "dependencies": {
+    "electron": "^12.0.1"
+  }
+}
