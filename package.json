@@ -1,5 +1,5 @@
 {
-  "name": "electron-cros",
+  "name": "electron-cors",
   "version": "1.0.0",
   "description": "使用electron跨域操作其他网页",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kuainx/electron-cros.git"
+    "url": "git+https://github.com/kuainx/electron-cors.git"
   },
   "author": "kuai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kuainx/electron-cros/issues"
+    "url": "https://github.com/kuainx/electron-cors/issues"
   },
-  "homepage": "https://github.com/kuainx/electron-cros#readme",
+  "homepage": "https://github.com/kuainx/electron-cors#readme",
   "dependencies": {
     "electron": "^12.0.1"
   }
